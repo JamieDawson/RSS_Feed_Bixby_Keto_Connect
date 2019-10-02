@@ -5,9 +5,9 @@
 // Tags: What the user can say to automatically call certain feeds
 module.exports = module.exports = [
   {
-    url: 'https://feed.pippa.io/public/shows/vux-world',
+    url: 'https://www.ketoconnect.net/feed',
     urlText: 'Click here to see the full podcast',
-    text: 'VUX World',
-    tags: []
+    text: 'Keto Connect',
+    tags: ["news"]
   }
 ]

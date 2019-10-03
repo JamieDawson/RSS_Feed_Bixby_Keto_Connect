@@ -14,8 +14,7 @@ capsule {
     use-input-views-for-selection-list-detail
   }
   store-sections {
-    section (NewsAndMagazines)
-    section (Sports)
+    section (FoodAndDrink)
   }
   capsule-imports {
     import (viv.image) { as (image) version (2.12.10) }

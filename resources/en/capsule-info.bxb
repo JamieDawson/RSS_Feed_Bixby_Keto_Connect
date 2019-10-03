@@ -1,11 +1,11 @@
 capsule-info {
-  display-name (RSS Template)
-  dispatch-name (RSS Template)
-  developer-name (Final Boss)
+  display-name (Keto Connect)
+  dispatch-name (Keto connect)
+  developer-name (Jamie Dawson)
   icon-asset (icon.png)
-  description (RSS template capsule)
+  description (KetoConnect provides a global hub for people looking to transform their lives using the ketogenic lifestyle. We are committed to publishing helpful resources, developing delicious recipes, and offering friendly advice to people striving to live healthier, happier lives. Matt and Megha founded KetoConnect in 2016 after they realized their results from the keto diet were too good not to share. Their fun personalities and laid-back lifestyle make learning about nutrition enjoyable for everyone. )
   search-keywords {
-    keyword (News)
+    keyword (Keto)
     keyword (RSS)
   }
 }

@@ -34,6 +34,8 @@ result-view {
 									spoken-summary ("#{value(this.title)}\n\n\n\n\n\n\n\n\n\n")
 									thumbnail-card {
 										image-url("#{value(this.image.url)}")
+										image-object-fit (Contain)
+										image-background-color (White)
 										title-area {
 											slot1 {
 												text {

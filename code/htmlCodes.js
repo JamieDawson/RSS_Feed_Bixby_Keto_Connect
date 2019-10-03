@@ -198,7 +198,7 @@ module.exports = module.exports = [
     { key: '&#8211;', value: '–'},
     { key: '&#8212;', value: '—'},
     { key: '&#8216;', value: '‘'},
-    { key: '&#8217;', value: '’'},
+    { key: '&#8217;', value: "'"},
     { key: '&#8218;', value: '‚'},
     { key: '&#8220;', value: '“'},
     { key: '&#8221;', value: '”'},

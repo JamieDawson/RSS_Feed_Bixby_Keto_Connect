@@ -11,13 +11,13 @@ module.exports = module.exports = [
   },
     {
     url: 'https://www.mariamindbodyhealth.com/feed ',
-    urlText: 'Click here to see the full story on ketosummit.com',
+    urlText: 'Click here to see the full story on mariamindbodyhealth.com',
     text: 'Mariam Mind Body Health',
     tags: ['Mariam', "mariam mind body health", "mind body health"]
   },
   {
     url: 'https://www.docmuscles.com/feed',
-    urlText: 'Click here to see the full story on ketosummit.com',
+    urlText: 'Click here to see the full story on docmuscles.com',
     text: 'Doc Muscles',
     tags: ['doc muscles', "doctor muscle",]
   },

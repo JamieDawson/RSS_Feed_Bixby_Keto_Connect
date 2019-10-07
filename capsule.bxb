@@ -1,5 +1,5 @@
 capsule {
-  id (playground.rss_template)
+  id (jamie_dawson.keto_news)
   version (1.0.1)
   format (3)
   targets {

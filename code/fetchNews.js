@@ -16,6 +16,8 @@ function removeHTML(str) {
 	for (var i = 0; i < HTMLCODES.length; i++)
 		while (str.includes(HTMLCODES[i].key))
 			str = str.replace(HTMLCODES[i].key, HTMLCODES[i].value)
+
+			
 	return str
 }
 

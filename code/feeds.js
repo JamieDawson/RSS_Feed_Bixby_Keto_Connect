@@ -5,8 +5,20 @@
 module.exports = module.exports = [
   {
     url: 'https://www.ketoconnect.net/feed/',
-    urlText: 'Click here to see the full story on espn.com',
-    text: 'Example Text',
-    tags: ['sports', 'espn']
+    urlText: 'Click here to see the full story on ketoconnect.com',
+    text: 'Keto Connect',
+    tags: ['connect', "keto connect"]
+  },
+    {
+    url: 'https://www.mariamindbodyhealth.com/feed ',
+    urlText: 'Click here to see the full story on ketosummit.com',
+    text: 'Mariam Mind Body Health',
+    tags: ['Mariam', "mariam mind body health", "mind body health"]
+  },
+  {
+    url: 'https://www.docmuscles.com/feed',
+    urlText: 'Click here to see the full story on ketosummit.com',
+    text: 'Doc Muscles',
+    tags: ['doc muscles', "doctor muscle",]
   },
 ]

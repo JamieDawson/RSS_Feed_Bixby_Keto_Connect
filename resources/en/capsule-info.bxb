@@ -3,7 +3,7 @@ capsule-info {
   dispatch-name (Keto News)
   developer-name (Jamie Dawson)
   icon-asset (icon.png)
-  description ( )
+  description (Keto News is a Capsule that collects different news feeds about the Keto Diet (Keto Connect, Mariam Mind Body Health, and Doc Muscles). All content is sourced from public RSS Feeds. Sources: https://www.ketoconnect.net/feed/, https://www.mariamindbodyhealth.com/feed, https://www.docmuscles.com/feed)
   search-keywords {
     keyword (Keto)
     keyword (RSS)
